@@ -1,6 +1,7 @@
 .directory-menu {
-  width: 100%;
+  width: calc(100% + 15px);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  padding-top: 20px;
 }
